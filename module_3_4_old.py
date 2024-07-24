@@ -1,5 +1,6 @@
 # версия до обновления
 
+
 def test(codes, *types, region='Санкт-Петербург', **values):
     # Функция с произвольным числом параметров разного типа
     for key, value in values.items():
