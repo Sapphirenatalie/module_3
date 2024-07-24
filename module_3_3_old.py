@@ -27,6 +27,7 @@ def factorial(n):
 
 print(factorial(5))
 
+
 print('\nРекурсивная функция - факториал числа n + input')
 n = int(input("Введите число: "))
 
