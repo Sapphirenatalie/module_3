@@ -12,6 +12,7 @@ print_params()
 print_params(b=25)
 print_params(c=[1, 2, 3])
 
+
 print('Распаковка параметров')
 
 values_list = [7, False, [3, 8]]
